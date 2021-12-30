@@ -1,0 +1,5 @@
+{
+    "files_formats": ["txt","rtf","chs"],
+    "include": ["examples/src"],
+    "exclude": ["examples/node_modules"]
+}

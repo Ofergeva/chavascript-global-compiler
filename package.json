@@ -1,0 +1,23 @@
+{
+  "name": "chavascript-global-compiler",
+  "version": "1.0.0",
+  "description": "A global compiler for Chavascript in the vein of tic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ofergeva/chavascript-global-compiler.git"
+  },
+  "author": "Ofer Geva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ofergeva/chavascript-global-compiler/issues"
+  },
+  "homepage": "https://github.com/Ofergeva/chavascript-global-compiler#readme",
+  "dependencies": {
+    "chavascript": "^0.1.3"
+  }
+}
