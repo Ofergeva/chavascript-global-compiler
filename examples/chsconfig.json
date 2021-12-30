@@ -1,5 +1,6 @@
 {
-    "files_formats": ["txt","rtf","chs"],
+    "file_formats": ["txt","rtf","chs"],
     "include": ["examples/src"],
-    "exclude": ["examples/node_modules"]
+    "exclude": ["examples/node_modules"],
+    "destination": "examples/dist"
 }
